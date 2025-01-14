@@ -4,7 +4,6 @@ Track the market cap growth of Amazon, Apple, Google, Meta, Microsoft, Nvidia, a
 
 **An interactive Power BI dashboard visualizing the historical market capitalization of 7 major technology companies (Amazon, Apple, Google, Meta, Microsoft, Nvidia, Tesla) from 2000 to 2023.**
 
-![image](https://github.com/user-attachments/assets/1ef8bb5e-debb-43e9-bd4c-b3790c2b1146)
 
 ## Overview
 
@@ -37,7 +36,7 @@ This dashboard provides insights into the growth and fluctuations of market capi
 
 ## Visuals
 
-[Include a screenshot of your dashboard here]
+![image](https://github.com/user-attachments/assets/1ef8bb5e-debb-43e9-bd4c-b3790c2b1146)
 
 ## Challenges and Solutions
 
