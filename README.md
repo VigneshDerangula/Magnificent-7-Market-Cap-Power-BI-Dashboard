@@ -38,11 +38,6 @@ This dashboard provides insights into the growth and fluctuations of market capi
 
 ![image](https://github.com/user-attachments/assets/1ef8bb5e-debb-43e9-bd4c-b3790c2b1146)
 
-## Challenges and Solutions
-
-*   **Data Cleaning:** [If you encountered challenges cleaning or preparing the data, describe them and how you addressed them.]
-*   **Visual Design:** [Mention any design considerations or challenges you faced in creating effective visualizations.]
-
 ## Future Enhancements
 
 *   **Add a slicer for year selection:**  This would allow users to focus on specific time periods.
