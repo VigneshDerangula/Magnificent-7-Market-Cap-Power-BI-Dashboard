@@ -43,12 +43,3 @@ This dashboard provides insights into the growth and fluctuations of market capi
 *   **Add a slicer for year selection:**  This would allow users to focus on specific time periods.
 *   **Include additional metrics:**  Expand the analysis by incorporating metrics like revenue, profit, or stock price.
 *   **Incorporate forecasting:**  Explore the possibility of adding predictive analytics to forecast future market cap trends.
-
-
-## Credits
-
-*   Market capitalization data sourced from: [Cite your data source]
-
-## License
-
-[Choose an appropriate open-source license - e.g., MIT License] 
