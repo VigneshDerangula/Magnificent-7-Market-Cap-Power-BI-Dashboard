@@ -8,7 +8,7 @@ Track the market cap growth of Amazon, Apple, Google, Meta, Microsoft, Nvidia, a
 
 ![image](https://github.com/user-attachments/assets/1ef8bb5e-debb-43e9-bd4c-b3790c2b1146)
 
-# *Live Preview : https://app.powerbi.com/view?r=eyJrIjoiZTQ3NDk0N2YtMDI4ZC00MTM1LTg4YTQtYzkzN2I4ZGI0ZmM3IiwidCI6IjQyNzgyNzc2LTgzMWYtNGFmYi1iM2Q1LTZhZmRkNGVmZDFjYSJ9
+**Live Preview : https://app.powerbi.com/view?r=eyJrIjoiZTQ3NDk0N2YtMDI4ZC00MTM1LTg4YTQtYzkzN2I4ZGI0ZmM3IiwidCI6IjQyNzgyNzc2LTgzMWYtNGFmYi1iM2Q1LTZhZmRkNGVmZDFjYSJ9**
 
 ## Overview
 
