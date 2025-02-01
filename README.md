@@ -23,8 +23,8 @@ This dashboard provides insights into the growth and fluctuations of market capi
 
 ## Technical Details
 
-*   **Power BI Version:** [Insert the version of Power BI Desktop you used]
-*   **Data Sources:** [Specify the source of your market cap data - e.g., Yahoo Finance, a specific API, a CSV file] 
+*   **Power BI Version:** Power BI Desktop 2.137.751.0
+*   **Data Sources:** Company related CSV files 
 *   **DAX Measures:**  [List any significant DAX measures you created - e.g., Year-over-Year Change, Percentage Growth]
 *   **Data Model:** [Briefly describe your data model - e.g., "A simple star schema with a date table and a company table."]
 
@@ -37,6 +37,8 @@ This dashboard provides insights into the growth and fluctuations of market capi
 ## Visuals
 
 ![image](https://github.com/user-attachments/assets/1ef8bb5e-debb-43e9-bd4c-b3790c2b1146)
+
+# Live Preview : https://app.powerbi.com/view?r=eyJrIjoiZTQ3NDk0N2YtMDI4ZC00MTM1LTg4YTQtYzkzN2I4ZGI0ZmM3IiwidCI6IjQyNzgyNzc2LTgzMWYtNGFmYi1iM2Q1LTZhZmRkNGVmZDFjYSJ9
 
 ## Future Enhancements
 
